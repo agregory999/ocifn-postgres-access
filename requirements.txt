@@ -1,0 +1,3 @@
+fdk
+oci
+psycopg2-binary

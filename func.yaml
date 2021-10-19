@@ -1,0 +1,6 @@
+schema_version: 20180708
+name: biogen-postgres-access
+version: 0.0.31
+runtime: python
+entrypoint: /python/bin/fdk /function/func.py handler
+memory: 256
